@@ -1,6 +1,5 @@
 /* lawn.java
  * Name: Jessica Xie
- * User: jqxie
  * This program returns five numbers: the length and width of a rectangular lot,
  * the length and width of a rectangular house on the lot, and the rate at which
  * the lawn will be mowed.
